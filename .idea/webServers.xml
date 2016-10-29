@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9c8d9390-08b3-4152-872f-5a0cbd76f0b9" name="Strato FTP" url="http://ftp.strato.com">
+        <fileTransfer host="ftp.strato.com" port="21" rootFolder="/WordPress_01/wp-content/themes/Archiv" password="dff5dfdddfcfdfc8dfdedfcfdfc9dfc2df9edfc6dfcfdfdd" username="www.webtechnology.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
